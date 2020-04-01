@@ -3,7 +3,8 @@
         "browser": true,
         "es6": true,
         "jest": true,
-        "commonjs": true
+        "commonjs": true,
+        "serviceworker": true
     },
     "extends": [
         "eslint:recommended", 
