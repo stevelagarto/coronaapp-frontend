@@ -10,7 +10,6 @@ function addDefSrcIgnore(srcArr) {
     '!**/.DS_Store',
     '!package.json',
     '!package-lock.json',
-    '!src/serviceWorker.js',
     '!public/manifest.json'
   ]);
 }
